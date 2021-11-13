@@ -1,0 +1,9 @@
+{
+    "name" : "nodejs-hosting-heroku",
+    "version" : "1.0.0",
+    "scripts" : {
+        "start" : "node piramide.js"
+    },
+    "author" : "nacho"
+}
+    
